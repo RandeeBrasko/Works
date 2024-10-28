@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colors</title>
+    <title>Cvet</title>
 </head>
 <body id="body">
     <main>
@@ -22,8 +22,7 @@
         </div>
         <div id="colorsContain"></div>
     </main>
-    <script src="js-cookie/dist/js.cookie.js"></script>
-    <script src="scripts.js"></script>
-    <script src="json.json"></script>
+    <script src="js-cookie/dist/js.cookie.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
