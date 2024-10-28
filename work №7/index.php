@@ -23,6 +23,6 @@
         <div id="colorsContain"></div>
     </main>
     <script src="js-cookie/dist/js.cookie.min.js"></script>
-    <script src="script.js"></script>
+    <script src="scripts.js"></script>
 </body>
 </html>
